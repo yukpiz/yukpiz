@@ -1,4 +1,4 @@
-![Github Stat](https://github-readme-stats.vercel.app/api?username=yukpiz&count_private=true&theme=darcula)
+[![yukpiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukpiz)](https://github.com/anuraghazra/github-readme-stats)
 
 Fav
 - 🎣 Fishing
