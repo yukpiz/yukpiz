@@ -2,8 +2,6 @@
 
 Fav
 - 🎣 Fishing
-- 🏂 Snowboard
-- 🚲 Road-Bike
 - 🍶 Sake
 - 🎮 Game
 - 🎬 Anime
